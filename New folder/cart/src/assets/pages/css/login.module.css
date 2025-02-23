@@ -1,0 +1,19 @@
+.mainContainer {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    text-align: center;
+}
+
+.formFeilds {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
